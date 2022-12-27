@@ -1,0 +1,6 @@
+[submodule "libs/zecs"]
+	path = libs/zecs
+	url = https://github.com/Byteron/zecs
+[submodule "libs/raylib"]
+	path = libs/raylib
+	url = https://github.com/raysan5/raylib
